@@ -1,0 +1,68 @@
+JUnit Test cases
+
+
+addComment				Done
+
+addEpisode				Done
+
+addEpisodeReview			Done
+
+addFavoriteMovie			Done
+
+addFavoriteTvshow			Done
+
+addFriendForUserID			Done
+
+addItem					Done
+
+addMovieReview				Done
+
+addUser					Done
+
+addWatchedEpisode			Done
+
+addWatchedMovie				Done
+
+checkLogin				Done
+
+getAllMovies				Used in most tests indirectly
+
+getAllTVShows				Used in most tests indirectly
+
+getCommentsByItem			Done
+
+getEpisodeReviews			Done
+
+getFavoriteMoviesByUserID		Done
+
+getFavoriteTvShowsByUserID		Done
+
+getFriendsIDsByUserID			Done
+
+getItemById				Done
+
+getItems				Used in most tests indirectly
+
+getMovieReviews				Done
+
+getUserById				Done
+
+getUsers				Done
+
+getWatchedEpisodesByUserID		Done
+
+getWatchedMoviesByUserID		Done
+
+removeComment				Done
+
+removeUser				Done
+
+search					Done
+
+searchShows				Done
+
+searchUsers				Done
+
+updateItem				Done
+
+updateUser				Done	
